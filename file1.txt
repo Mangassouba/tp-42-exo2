@@ -1,0 +1,6 @@
+Exercice2 fusionner deux commit avec rebase
+
+on initialise notre depot locale crée un fichier appelé file.txt ajouter du contenu
+valider avec un message de commit.
+
+modification du fichier file.txt
